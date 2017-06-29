@@ -1,0 +1,5 @@
+{
+    "require": {
+        "monetivo/monetivo-php": "^1.0"
+    }
+}
